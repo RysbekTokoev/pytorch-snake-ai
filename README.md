@@ -15,6 +15,7 @@ Simply install all the requirements and run main.py. Example:
 pip install -r requirements.txt
 python3 main.py
 ```
+!If any troubles with installing pytorch please check https://pytorch.org/get-started/locally/
 To run the code with pre-trained model run main.py with a path to the model as an argument:
 ```
 python3 main.py model/model.pth
