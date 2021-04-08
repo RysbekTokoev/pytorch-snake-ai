@@ -20,6 +20,10 @@ To run the code with pre-trained model run main.py with a path to the model as a
 ```
 python3 main.py model/model.pth
 ```
+-To play the game as it intended (by yourself), change player variable from False to True in the \
+constants.py \
+-To scale the frame change frame_size_x and frame_size_y in the constants.py \
+-To change movement speed of the snake change difficulty in the constants.py 
 
 # Contacts
 Rysbek Tokoev \

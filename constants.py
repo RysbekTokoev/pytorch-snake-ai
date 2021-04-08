@@ -1,8 +1,8 @@
 import pygame
 
 # Window size
-frame_size_x = 360
-frame_size_y = 360
+frame_size_x = 480
+frame_size_y = 480
 
 # Colors (R, G, B)
 black = pygame.Color(0, 0, 0)
